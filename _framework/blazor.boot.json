@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "IvecUxQuiz.Web",
   "resources": {
-    "hash": "sha256-3spPHb3G0K5H76nA+CpqxKRvEfzeTlSBF9GAT1s9Q48=",
+    "hash": "sha256-qDzs9JfGUu1FCaxH0NJ0nXxMBZz2mhEqPry4VC2dRQg=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.cwvnbgs17e.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.bcb3imylv4.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -36,7 +36,7 @@
       "System.Text.Json.1w9aw3pzyd.wasm": "System.Text.Json.wasm",
       "System.Text.RegularExpressions.kko5ac1sj1.wasm": "System.Text.RegularExpressions.wasm",
       "System.Private.CoreLib.l0vmsk5daq.wasm": "System.Private.CoreLib.wasm",
-      "IvecUxQuiz.Web.41blk1x3sw.wasm": "IvecUxQuiz.Web.wasm",
+      "IvecUxQuiz.Web.7u0v5fipoy.wasm": "IvecUxQuiz.Web.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.6sals8nuk0.js": "dotnet.native.js",
       "dotnet.native.zzmgzj9wb3.wasm": "dotnet.native.wasm",
@@ -95,7 +95,7 @@
       "System.Text.Encodings.Web.61fgrvui92.wasm": "sha256-5hiRHg3FXimgfp/PNEFaSXCmGJS26W4LckFCrYKk2k0=",
       "System.Text.Json.1w9aw3pzyd.wasm": "sha256-b1Nj9mJPxViFsmtQeyHekLY6OTqodTQBa7bCHmu8+cw=",
       "System.Text.RegularExpressions.kko5ac1sj1.wasm": "sha256-pBU5xrbAIhYCjypX6ly7dIHa2b5jgeiZb7xbQ+atqFA=",
-      "IvecUxQuiz.Web.41blk1x3sw.wasm": "sha256-GDPiWblvnrYrZYMdCMfVMIOxR//2NDuCRTZxHrBVv48="
+      "IvecUxQuiz.Web.7u0v5fipoy.wasm": "sha256-Acl2/ryOtvH+UUgmbztiXxdXuBjH6iyQKA91iFckwgE="
     }
   },
   "cacheBootResources": true,

@@ -1,13 +1,13 @@
 self.assetsManifest = {
-  "version": "bM1+zFuV",
+  "version": "QayUbS3a",
   "assets": [
     {
       "hash": "sha256-GaVzyflCF9UBidEdxe3F3uidJgyTSlz1lSju8O8XUbg=",
       "url": "IvecUxQuiz.Web.styles.css"
     },
     {
-      "hash": "sha256-GDPiWblvnrYrZYMdCMfVMIOxR//2NDuCRTZxHrBVv48=",
-      "url": "_framework/IvecUxQuiz.Web.41blk1x3sw.wasm"
+      "hash": "sha256-Acl2/ryOtvH+UUgmbztiXxdXuBjH6iyQKA91iFckwgE=",
+      "url": "_framework/IvecUxQuiz.Web.7u0v5fipoy.wasm"
     },
     {
       "hash": "sha256-1dlLfKlX5dGAWW49GAv91c5w/rB5E3a1UCwVaoY9WXo=",
@@ -142,7 +142,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.kko5ac1sj1.wasm"
     },
     {
-      "hash": "sha256-wkG6N8vZjEhgjbDamXU8yTCIoRPDAO6sTuMVZntTfEg=",
+      "hash": "sha256-CK4YZehvyyfW/5hSxykOCMARDLIjWC0t/SAqm68a0qU=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -182,7 +182,7 @@ self.assetsManifest = {
       "url": "css/app.css"
     },
     {
-      "hash": "sha256-co2ulOqMQnQf1ky46RCLDKNBCjXqK4zYUKZBoTRwC5E=",
+      "hash": "sha256-zryz7Xhs9YHBEIPWIGmbXZP+nFo5hLKwDfxWLBBBkfU=",
       "url": "data/questions.json"
     },
     {
